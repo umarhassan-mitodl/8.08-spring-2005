@@ -5,8 +5,6 @@ description: 'Includea topics: Principle of statistical physics and ensembles, m
 file: /courses/8-08-statistical-physics-ii-spring-2005/d3e968b9aabbebf32e1c21adf6ae1962_microcanonical_en.pdf
 file_size: 312035
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: 2 problems on chemical potential and temperature, van der Waals equ
 file: /courses/8-08-statistical-physics-ii-spring-2005/3a0d0e9e3337c41c62fea489f3231ea7_prb4.pdf
 file_size: 67980
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

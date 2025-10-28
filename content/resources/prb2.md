@@ -5,8 +5,6 @@ description: 5 problems on Curie?s Law from canonical ensemble, Cooling by adiab
 file: /courses/8-08-statistical-physics-ii-spring-2005/3485c0d7290bf1853e208c50b5f6f577_prb2.pdf
 file_size: 88781
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

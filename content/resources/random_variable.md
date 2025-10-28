@@ -5,8 +5,6 @@ description: Explains one random variable, two random variable, conditional rand
 file: /courses/8-08-statistical-physics-ii-spring-2005/71302466172a4c0f5f069a31b3c8a6d4_random_variable.pdf
 file_size: 607561
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -2,8 +2,6 @@
 content_type: page
 description: Lecture notes provides information on lectures with respective PDFs.
   It also contains 2 supplementary lecture notes.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 ocw_type: CourseSection

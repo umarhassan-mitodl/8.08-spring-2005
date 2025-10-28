@@ -5,8 +5,6 @@ description: 4 problems on entropy, force, temprature, partition function, tensi
 file: /courses/8-08-statistical-physics-ii-spring-2005/c6c5bbb89faada35335cfdae9a5df7ba_prb1.pdf
 file_size: 54716
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

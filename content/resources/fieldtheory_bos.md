@@ -5,8 +5,6 @@ description: Explains the interacting bosons using a classical picture and low e
 file: /courses/8-08-statistical-physics-ii-spring-2005/a0393f0291067f3a6119aa64fc359a2f_fieldtheory_bos.pdf
 file_size: 702729
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

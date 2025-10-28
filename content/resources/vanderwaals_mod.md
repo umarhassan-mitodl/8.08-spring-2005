@@ -5,8 +5,6 @@ description: Explains van dar Waal equation of states, partition function, phase
 file: /courses/8-08-statistical-physics-ii-spring-2005/eafe8b81bbafeedbccbaa48417d8dca7_vanderwaals_mod.pdf
 file_size: 785030
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

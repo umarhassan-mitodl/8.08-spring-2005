@@ -4,8 +4,6 @@ description: 4 problems on fluctuations of the position of photons.
 file: /courses/8-08-statistical-physics-ii-spring-2005/4cf91764cbe37ecd23b73c5d166d2575_prb6.pdf
 file_size: 62355
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

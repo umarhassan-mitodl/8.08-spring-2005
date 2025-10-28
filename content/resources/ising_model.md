@@ -5,8 +5,6 @@ description: Explains Ising model with the help of phase transition and GI theor
 file: /courses/8-08-statistical-physics-ii-spring-2005/c6796eafdf333fb55fb351654657b846_ising_model.pdf
 file_size: 727665
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Lecture Notes
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

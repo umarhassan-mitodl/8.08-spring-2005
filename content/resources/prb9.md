@@ -4,8 +4,6 @@ description: 4 problems on Ginzburg-Landau free energy, boson condensation.
 file: /courses/8-08-statistical-physics-ii-spring-2005/b72cfc0025adb9d95c4428891fe83bf9_prb9.pdf
 file_size: 82504
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

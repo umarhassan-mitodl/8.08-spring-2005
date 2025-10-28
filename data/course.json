@@ -32,7 +32,6 @@
     "website": "8-08-statistical-physics-ii-spring-2005"
   },
   "course_title": "Statistical Physics II",
-  "hide_download": true,
   "course_description": "This course covers probability distributions for classical and quantum systems. Topics include: Microcanonical, canonical, and grand canonical partition-functions and associated thermodynamic potentials. Also discussed are conditions of thermodynamic equilibrium for homogenous and heterogenous systems.\n\nThe course follows [8.044](/courses/8-044-statistical-physics-i-spring-2013/), Statistical Physics I, and is second in this series of undergraduate Statistical Physics courses.\n",
   "department_numbers": [
     "8"
@@ -43,7 +42,6 @@
     "content": "6c9832c2-fa3e-349b-630d-d535851dcc57",
     "website": "8-08-statistical-physics-ii-spring-2005"
   },
-  "hide_download_original": true,
   "learning_resource_types": [
     "Lecture Notes",
     "Problem Sets"

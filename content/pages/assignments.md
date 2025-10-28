@@ -3,8 +3,6 @@ content_type: page
 description: Assignments provides information on assigned problems and the related
   readings for the term for the respective problem sets. It also contains practice
   problems for quizzes and final exam.
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection

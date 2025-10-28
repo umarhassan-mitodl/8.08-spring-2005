@@ -5,8 +5,6 @@ description: This resource contains a list of suggested practice problems for ea
 file: /courses/8-08-statistical-physics-ii-spring-2005/9d79262b669957fb571fcbac76451cba_pracprob_qz_finl.pdf
 file_size: 9122
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
